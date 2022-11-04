@@ -1,0 +1,6 @@
+{
+    "extensions.closeExtensionDetailsOnViewChange": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
